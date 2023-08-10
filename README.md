@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Live streaming webapp**
 
-- 👨‍💻 All of my projects are available at [[github.com/saurav-tiwari03](github.com/saurav-tiwari03)](https://github.com/saurav-tiwari03?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/saurav-tiwari03?tab=repositories)
 
 - 💬 Ask me about **HTML 5.0, CSS 3, Reactjs**
 
