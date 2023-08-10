@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-tiwari03&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-tiwari03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav-tiwari03" alt="saurav-tiwari03" /></a> </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfJb7y-IAiNY7Bcat9RC_rfKo5HBvTKjLAQ&usqp=CAU" alt="/">
 
 - 🔭 I’m currently working on **Live streaming webapp**
 
