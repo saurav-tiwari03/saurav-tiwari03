@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-tiwari03&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-tiwari03" /> </p>
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfJb7y-IAiNY7Bcat9RC_rfKo5HBvTKjLAQ&usqp=CAU" alt="/" align="right" width="300px" height="150px">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurav-tiwari03" alt="saurav-tiwari03" /></a> </p>
 
@@ -18,7 +18,7 @@
 - 💬 Ask me about **HTML 5.0, CSS 3, Reactjs**
 
 - 📫 How to reach me **tiwarisaurav459@gmail.com**
-
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfJb7y-IAiNY7Bcat9RC_rfKo5HBvTKjLAQ&usqp=CAU" alt="/" align="right" width="300px" height="150px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itzsauravt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzsauravt" height="30" width="40" /></a>
