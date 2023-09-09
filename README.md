@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-tiwari03&show_icons=true&locale=en&theme=radical" alt="saurav-tiwari03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-tiwari03&theme=radical" alt="saurav-tiwari03" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-tiwari03&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
