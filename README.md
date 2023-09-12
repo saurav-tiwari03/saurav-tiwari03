@@ -1,5 +1,11 @@
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saurav-tiwari03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -12,11 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurav-tiwari03&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-tiwari03&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saurav-tiwari03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saurav-tiwari03&icon=0&color=6)](https://visitcount.itsvg.in)
