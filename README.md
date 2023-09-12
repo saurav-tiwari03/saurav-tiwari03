@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=saurav-tiwari03&icon=0&color=6)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on "Live Streaming Platform" <br>👯 I’m looking to collaborate on "React.js"<br>🤝 I’m looking for help with "SendBirdJs Liabrary"<br>🌱 I’m currently learning "Next.js" <br>💬 Ask me about "Data Structures and Algo"<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saurav-tiwari03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
