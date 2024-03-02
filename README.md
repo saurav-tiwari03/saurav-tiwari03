@@ -1,6 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=saurav-tiwari03&icon=0&color=6)](https://visitcount.itsvg.in)
 # 💫 About Me:
-
 <center style="display:flex;">
 <p>👯 I’m looking to collaborate on "React.js"<br>🌱 I’m currently learning "Next.js" <br>💬 Ask me about "Data Structures and Algo"<br></p>
 <img style="height:200px;"  src="https://camo.githubusercontent.com/e095e7bef98960bbf46c33b89e855212f0734f3296d2dd6dd99c91b3fcbdd292/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584971435178303245315539572f67697068792e676966" /></center>
