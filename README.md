@@ -5,7 +5,6 @@
 <img style="height:200px;"  src="https://camo.githubusercontent.com/e095e7bef98960bbf46c33b89e855212f0734f3296d2dd6dd99c91b3fcbdd292/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584971435178303245315539572f67697068792e676966" /></center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A8A8A8&center=true&random=true&width=435&lines=Let's+Build+Together)](https://git.io/typing-svg)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saurav-tiwari03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
